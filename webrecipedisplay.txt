@@ -1,0 +1,73 @@
+How recipes are displayed on the internet:
+
+### 1 ###
+	-- Example: skinnytaste.com
+
+  -- HTML MD: UL
+	-- Topped w/ <h3>INGREDIENTS
+
+### 2 ###
+Example: allrecipes.com
+
+HTML MD: UL
+Topped w/ <h2>Ingredients
+
+### 3 ###
+
+Example: foodnetwork.com
+
+HTML MD: UL
+Topped w/ <div>Ingredients
+
+### 4 ###
+
+Example: tasty.co
+
+HTML MD: UL
+Topped w/ <div>Ingredients AND below serving amount
+
+### 5 ###
+
+Example: jamievoliver.com
+
+HTML MD: UL
+Topped w/ <div>Ingredients
+
+### 6 ###
+
+Example: jamievoliver.com
+
+HTML MD: UL
+Extra: sometimes li made up w/ href for food + details extra --> not known how it'll affect output
+Topped w/ <div>Ingredients
+
+### 7 ###
+
+Example: cooking.nytimes.com
+
+HTML MD: UL
+Extra: quantity and food seperated in individual spans
+Topped w/ <div>Ingredients
+
+### 8 ###
+
+Example: tastofhome.com
+
+HTML MD: UL
+Topped w/ <h3>Ingredients
+
+### 9 ###
+
+Example: allrecipes.com
+
+HTML MD: div WHY
+Topped w/ <h3>Ingredients
+Seperated crust and filling
+
+### 10 ###
+
+Example: foodnetwork.co.uk
+
+HTML MD: UL
+Topped w/ <div>Ingredients
+
